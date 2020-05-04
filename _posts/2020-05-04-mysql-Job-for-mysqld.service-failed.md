@@ -42,17 +42,26 @@ cat /var/log/mysqld.log
 ```
 
 错误信息的摘要：
+
 `initialize specified but the data directory has files in it. Aborting.`
+
 `The designated data directory /var/lib/mysql/ is unusable. You can remove all files that the server added to it.`
+
 `Failed to find valid data directory.`
+
 `Data Dictionary initialization failed.`
+
 `Aborting`
 
 ## 解决方法：
 注意看日志的第三行：
+
 `The designated data directory /var/lib/mysql/ is unusable. You can remove all files that the server added to it.`
+
 翻译为：
+
 `指定的数据目录/var/lib/mysql/不可用。您可以删除服务器添加到其中的所有文件。`
+
 也就是说，只需要删除/var/lib/mysql文件即可。
 
 在/var/lib目录下使用删除命令：
