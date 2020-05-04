@@ -10,10 +10,11 @@
 
 title: 叁柒博客                # the main title
 
-tagline: 一个爱好超多的人              # it will display as the sub-title
+tagline: 微笑总能使人舒坦，不是吗？              # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  爱好超级多，我一直在为实现它而奋斗着。
+ 叁柒博客，博客嘛，当然就是给作者写一些文章，记录一些事情的网站啦。
+ 至于这个作者会记录些什么，看看博客有哪些类别就知道啦。
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://lin037.github.io'
@@ -51,7 +52,7 @@ timezone: Asia/Shanghai
 
 google_analytics:
   # Fill with your Google Analytics ID
-  id: ''
+  id: 'UA-165287162-1'
   # The Google Analytics pageviews switch.
 
   pv:
