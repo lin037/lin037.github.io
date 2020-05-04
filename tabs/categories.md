@@ -1,5 +1,5 @@
 ---
-title: Categories
+title: 类别
 
 # All the Categories of posts
 # v2.0
