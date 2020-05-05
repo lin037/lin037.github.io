@@ -2,7 +2,7 @@
 title: 修改jdk版本问题，环境变量修改jdk版本无效，配置为jdk12却还是jdk1.8
 author: 林叁柒
 date: 2020-05-02 20:43:37 +0800
-categories: [编程, JAVA, 使用JAVA所遇到的一些问题]
+categories: [编程, JAVA]
 tags: [编程, JAVA, jdk, jdk版本问题]
 ---
 

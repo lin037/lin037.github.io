@@ -2,7 +2,7 @@
 title: java命令执行时，报Error：A JNI error has occurred, please check your installation and try again
 author: 林叁柒
 date: 2020-05-02 23:30:04 +0800
-categories: [编程, JAVA, 使用JAVA所遇到的一些问题]
+categories: [编程, JAVA]
 tags: [编程, JAVA, jdk, jdk版本问题, 报错]
 ---
 
