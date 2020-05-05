@@ -3,7 +3,7 @@ title: 启动mysql Job for mysqld.service failed because the control process exi
 author: 林叁柒
 date: 2020-05-04 14:53:17 +0800
 categories: [数据库, MySQL]
-tags: [数据库, MySQL, 报错, linux]
+tags: [数据库, MySQL, 报错, linux, 使用MySQL遇到的一些问题]
 ---
 
 ## 前言：

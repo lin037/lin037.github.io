@@ -3,7 +3,7 @@ title: springboot整合shiro项目，打开页面却在后台调用登录接口
 author: 林叁柒
 date: 2020-05-02 20:51:35 +0800
 categories: [编程, JAVA]
-tags: [编程, springboot, shiro, 框架]
+tags: [编程, springboot, shiro, 框架, 使用Java遇到的一些问题]
 ---
 
 ## 导语

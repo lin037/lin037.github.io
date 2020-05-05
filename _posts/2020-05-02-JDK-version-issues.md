@@ -3,7 +3,7 @@ title: 修改jdk版本问题，环境变量修改jdk版本无效，配置为jdk1
 author: 林叁柒
 date: 2020-05-02 20:43:37 +0800
 categories: [编程, JAVA]
-tags: [编程, JAVA, jdk, jdk版本问题]
+tags: [编程, JAVA, jdk, jdk版本问题, 使用Java遇到的一些问题]
 ---
 
 ## 导语：
