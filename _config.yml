@@ -17,7 +17,7 @@ description: >-                        # used by seo meta and the atom feed
  至于这个作者会记录些什么，看看博客有哪些类别就知道啦。
 
 # Replace with the website url, e.g. 'https://username.github.io'
-url: 'https://blog.lin037.cn/'
+url: 'https://lin037.github.io/'
 
 author: 林叁柒                  # change to your full name
 
@@ -34,8 +34,8 @@ social:
   email: 1833340239@qq.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://twitter.com/Lin0372      # change to your twitter homepage
+    - https://github.com/lin037       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
