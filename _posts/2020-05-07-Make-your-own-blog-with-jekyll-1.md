@@ -123,7 +123,7 @@ Jekyll文档：[中文文档](https://www.jekyll.com.cn/)、[英文文档](https
      Server running... press ctrl-c to stop.
     ```
    
-   ![博客示例图](assets/img/sample/2020-05-07-Make-your-own-blog-with-jekyll-1/localhost4000.png)
+   ![博客示例图](/assets/img/sample/2020-05-07-Make-your-own-blog-with-jekyll-1/localhost4000.png)
    
    - 按ctrl+c可以关闭
    - 如此我们便建好了一个本地的博客，但如果需要让别人可以在网上看到的话，你还需要部署到服务器上面，而GitHub仓库和coding仓库是个不错的选择，免费且方便管理博客。
