@@ -52,11 +52,13 @@ Jekyll文档：[中文文档](https://www.jekyll.com.cn/)、[英文文档](https
    - 命令`gem sources -r 源的地址`可以删除源，把已有的源删除，即上面查询到的结果。
 
    - 命令`gem sources -a https://gems.ruby-china.com/`可以添加我们可以用的源，具体可访问[链接地址](https://gems.ruby-china.com)。
+	
+
 	```
 	C:\Users\Administrator>gem sources -l
-   *** CURRENT SOURCES ***
-   https://rubygems.org/
-   https://ruby.taobao.org/
+  	*** CURRENT SOURCES ***
+  	https://rubygems.org/
+  	https://ruby.taobao.org/
    
 	C:\Users\Administrator>gem sources -r https://rubygems.org/
 	https://rubygems.org/ removed from sources
