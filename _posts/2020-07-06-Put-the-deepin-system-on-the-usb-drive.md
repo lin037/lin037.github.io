@@ -1,9 +1,9 @@
 ---
-title: 将系统(deepin15.11)装进U盘里面，在任何电脑上即插即用，使用自己的系统.
+title: 将deepin15.11系统装进U盘里面，在任何电脑上即插即用，使用自己的系统.
 author: 林叁柒
 date: 2020-07-06 22:56:16 +0800
 categories: [系统, 制作移动随身系统]
-tags: [linux, , deepin, 系统, 虚拟机, 教程]
+tags: [linux, deepin, 系统, 虚拟机, 教程]
 ---
 
 ## 导语
